@@ -10,7 +10,16 @@ Mission Designer is a portable prompt for creators, founders, and anyone who wan
 2. Describe your idea or change naturally. Share relevant project context and constraints, then work with the AI to develop the vision and next assignment.
 3. Give the resulting assignment to your chosen coding agent or engineering team when you are ready to authorize implementation. Bring their results back to review against the intended experience.
 
-No particular AI provider, coding agent, development framework, or file structure is required. Exploring existing open-source projects is an option for the creator. Research and tool access depend on the AI you use.
+No particular AI provider, coding agent, development framework, or file structure is required.
+
+## Designing missions and reviewing results
+
+Mission Designer v3.1 strengthens two parts of the workflow:
+
+- **Mission design:** A clear, self-contained outcome, accurate starting context, meaningful constraints, observable acceptance cases, and enough freedom for the implementation agent to make sound engineering decisions.
+- **Mission closeout:** A concise status and evidence-backed receipt of what was delivered, what was actually verified, what remains uncertain, and the next action. Substantial work can reference a durable evidence record and verified lessons.
+
+See the [research-grounded design and closeout guide](DESIGN-AND-CLOSEOUT-GUIDE.md) for examples, rationale, and practical checks. The [main Mission Designer prompt](MISSION-DESIGNER.md) remains the only document you need to copy into a conversational AI. The guide is optional reference material, not an additional mandatory workflow. Exploring existing open-source projects is an option for the creator. Research and tool access depend on the AI you use.
 
 Mission Designer is guidance, not a guarantee of software quality. Review consequential decisions and verify implementation results.
 
